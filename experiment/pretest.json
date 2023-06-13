@@ -2,38 +2,86 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "Q1. Which of the following statement is incorrect about Square wave voltammetry?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Direct detection limits as low as 10 –3 M are possible.",
+        "b": "The net current, i net , is obtained by taking the difference between the forward and reverse currents.",
+        "c": "It shows excellent sensitivity and the rejection of background currents.",
+        "d": "In this technique, the peak height is directly proportional to the concentration of the electroactive species"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+	  "correctAnswer": "a"     
+    },
+	{
+      "question": "Q2. Which of the following electrode has a wide potential window, excellent electrochemical stability, and selectivity?",
+      "answers": {
+        "a": "Boron-doped diamond electrode",
+        "b": "Glassy carbon electrode",
+        "c": "Platinum electrode",
+        "d": "Silver/silver chloride electrode"
       },
-      "correctAnswer": "a",
-      "difficulty": "beginner"
+      "correctAnswer": "a"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "Q3. _______________ is an electronic device that maintains the potential of a working electrode at a constant level.",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Amperostat",
+        "b": "Potentiostat",
+        "c": "Galvanostat",
+        "d": "Potentiometer"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      "correctAnswer": "b"
+    },
+	{
+      "question": "Q4. Boron doped diamond electrode is used as a _________________.",
+      "answers": {
+        "a": "Auxiliary electrode.",
+        "b": "Working electrode.",
+        "c": "Reference electrode.",
+        "d": "Conducting electrode."
       },
-      "correctAnswer": "c",
-      "difficulty": "beginner"
+      "correctAnswer": "b"
+    },
+	{
+      "question": "Q5. Reduction reaction produces ___________ current.",
+      "answers": {
+        "a": "Controlled",
+        "b": "Constant",
+        "c": "Cathodic",
+        "d": "Anodic"
+      },      
+      "correctAnswer": "c"
+    },	
+	{
+      "question": "Q6. Which of the following is not a characteristic of differential pulse voltammetry?",
+      "answers": {
+        "a": "Reversible reactions have asymmetric peaks",
+        "b": "Irreversible reactions have asymmetric peaks",
+        "c": "The peak current is proportional to the concentration",
+        "d": "The detection limit is about 10<sup>-8</sup>M"
+      },     
+      "correctAnswer": "a"
+    },
+	
+	{
+      "question": "Q7. Faraday’s law relates the number of moles of the analyte to the",
+      "answers": {
+        "a": "Charge",
+        "b": "Voltage",
+        "c": "Current",
+        "d": "volume"
+      },      
+      "correctAnswer": "b"
+    },
+	{
+      "question": "Q8. Which of the following is a disadvantage of boron-doped diamond electrodes?",
+      "answers": {
+        "a": "Not suitable for commercial applications.",
+        "b": "Low background current",
+        "c": "Good electrical conductivity",
+        "d": "Non-toxic property"
+      },      
+      "correctAnswer": "a"
     }
   ]
+
 }

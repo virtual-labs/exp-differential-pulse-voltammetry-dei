@@ -2,38 +2,86 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "Q1. In an electrochemical cell, which of the following current is present even in the absence of the analyte?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Faradaic current.",
+        "b": "Residual current.",
+        "c": "Cathodic current.",
+        "d": "Anodic current."
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+	  "correctAnswer": "b"     
+    },
+	{
+      "question": "Q2. In differential pulse voltammetry, the graph is obtained by plotting ____________.",
+      "answers": {
+        "a": "The potential difference as a function of current.",
+        "b": "The current difference as a function of potential.",
+        "c": "The potential difference as a function of time.",
+        "d": "The current difference as a function of time."
       },
-      "correctAnswer": "a",
-      "difficulty": "beginner"
+      "correctAnswer": "b"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "Q3. What is the range of frequency of square wave voltammetry?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "1-125 Hz",
+        "b": "50-100 Hz",
+        "c": "10-150 Hz",
+        "d": "10-200 Hz"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      "correctAnswer": "a"
+    },
+	{
+      "question": "Q4. The potential at i1/2 is called ______________.",
+      "answers": {
+        "a": "Middle potential.",
+        "b": "Overpotential.",
+        "c": "Reference potential.",
+        "d": "Half-wave potential."
       },
-      "correctAnswer": "c",
-      "difficulty": "beginner"
+      "correctAnswer": "d"
+    },
+	{
+      "question": "Q5. Which of the following voltammetric technique enhances the sensitivity by improving the faradic current?",
+      "answers": {
+        "a": "Anodic stripping voltammetry",
+        "b": "Cyclic voltammetry",
+        "c": "Differential pulse voltammetry",
+        "d": "Square wave voltammetry"
+      },      
+      "correctAnswer": "c"
+    },	
+	{
+      "question": "Q6. Differential pulse voltammetry helps to ___________ the effect of background charging current during analysis?",
+      "answers": {
+        "a": "Minimize",
+        "b": "Maximize",
+        "c": "Fluctuaten",
+        "d": "The detection limit is about 10<sup>-8</sup>M"
+      },     
+      "correctAnswer": "a"
+    },
+	
+	{
+      "question": "Q7. Which of the following is an example of a non-faradaic current?",
+      "answers": {
+        "a": "Charging current",
+        "b": "Cathodic current",
+        "c": "Anodic current",
+        "d": "Residual current"
+      },      
+      "correctAnswer": "a"
+    },
+	{
+      "question": "Q8.Which of the following is not a feature of square wave voltammetry?",
+      "answers": {
+        "a": "Mechanistic and kinetic studies",
+        "b": "Quantitative chemical analysis",
+        "c": "Qualitative identification of phases",
+        "d": "Non-toxic property"
+      },      
+      "correctAnswer": "d"
     }
   ]
+
 }
