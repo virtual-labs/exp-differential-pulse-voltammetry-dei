@@ -185,32 +185,7 @@ $(document).ready(function(){
 		 $('#saltbridagen').attr('disabled', 'disabled');
 		 $('#rodn').attr('disabled', 'disabled');
 		 $('#cuso41nao').attr('disabled', 'disabled');
-		$("#step8img").attr("src","images/meter-reading.gif");
-		setTimeout(function() {
-    $("#success3").show();
-            // $("#step5img").attr("src","assets/img/step5f.png");
-            }, 6000);
-    });
-	$("#rodn4").click(function(){
-		 $("#voltameter").hide();
-    	$(".followstep4").removeClass("active");
-		$(".followstep5").addClass("active");
-        $("#step1").hide();
-        $("#step2").hide();
-		$("#step3").hide();
-		$("#step3").hide();
-		$("#step4").hide();
-		$("#step5").hide();
-		$("#step6").hide();
-		$("#step7").hide();
-		$("#step8").show();
-		$('#cuso41n').attr('disabled', 'disabled');
-		 $('#cu1n').attr('disabled', 'disabled');
-		 $('#voltametern').removeAttr('disabled', 'disabled');
-		 $('#saltbridagen').attr('disabled', 'disabled');
-		 $('#rodn').attr('disabled', 'disabled');
-		 $('#cuso41nao').attr('disabled', 'disabled');
-		$("#step8img").attr("src","images/graph.gif");
+		$("#step8img").attr("src","images/step7.gif");
 		setTimeout(function() {
     $("#success3").show();
             // $("#step5img").attr("src","assets/img/step5f.png");
@@ -257,7 +232,7 @@ $(document).ready(function(){
             }, 8000);
 		 setTimeout(function() {
 		        $("#success1").show();
-				$("#success1").text("Switch on potentiostat instrumet!");
+				$("#success1").text("Switch on potentiostat instrument!");
 		   }, 6000);
 			
 			
@@ -296,7 +271,7 @@ $(document).ready(function(){
             }, 8000);
 			 setTimeout(function() {
 		        $("#success2").show();
-				$("#success2").text("Switch on potentiostat instrumet!");
+				$("#success2").text("Switch on potentiostat instrument!");
 		   }, 6000);
 			
 
@@ -334,7 +309,7 @@ $(document).ready(function(){
             }, 8000);
 			 setTimeout(function() {
 		        $("#success3").show();
-				$("#success3").text("Switch on potentiostat instrumet!");
+				$("#success3").text("Switch on potentiostat instrument!");
 				
 		   }, 6000);
 			
@@ -2020,7 +1995,7 @@ $("#chartContainer1").CanvasJSChart(options);
 		 $('#saltbridagen').attr('disabled', 'disabled');
 		 $('#rodn').attr('disabled', 'disabled');
 		 $('#cuso41nao').attr('disabled', 'disabled');
-		$("#step8img").attr("src","images/part7.gif");
+		$("#step8img").attr("src","images/step7.gif");
 	var options = {
 	 animationEnabled: true,
      animationDuration: 10000,
@@ -3027,11 +3002,11 @@ $("#chartContainer3").CanvasJSChart(options);
 		<div class="nav-element">
 			<a href="feedback.html" >Feedback</a>
 		</div>
+
 		</nav>
-		
 		<main class="main-section" id="main-sec">
 		<div class="heading" id="head_area">
-			<h1>5.Heavy metal analysis using Differential Pulse Voltammetry (DPV) and Square Wave Voltammetry (SWV) Techniques.</h1>
+			<h1>Heavy metal analysis using Differential Pulse Voltammetry (DPV) and Square Wave Voltammetry (SWV).</h1>
 		</div>
 		<div  class="des" id="des">
 		<div  style="float: left;text-align:left;">
@@ -3064,7 +3039,7 @@ $("#chartContainer3").CanvasJSChart(options);
 		    <!-- Begin step1-->
 			 <div id="step1">
 	
-                 <a href="javascript:void(0);" class="blink" id="cuso41" style="display:none;">Step1: Activaion BDDE.</a>
+                 <a href="javascript:void(0);" class="blink" id="cuso41" style="display:none;">Step1: Pour water sample in the cell.</a>
 				
 				<div id="rightsidebarn" class="rightsidebarn">
 						<a href="javascript:void(0);" class="max" >Maximize The Window</a>
@@ -3072,14 +3047,14 @@ $("#chartContainer3").CanvasJSChart(options);
 						</div>	
 				
 				<p>
-				<img src="images/p1.gif" style="width:740px;height:480px;">
+				<img src="images/step0.jpg" style="width:740px;height:480px;">
 				</p>
 			 </div>
 			 <!-- End step1-->
 			 <!-- Begin step2-->
 			 <div id="step2" style="display:none;">
 			
-				<a href="javascript:void(0);" id="saltbridage" style="display:none;" class="blink">Step3: Stir the solution. </a>
+				<a href="javascript:void(0);" id="saltbridage" style="display:none;" class="blink">Step3: Add ammonium acetate buffer. </a>
 
 			 
 				<p>
@@ -3089,7 +3064,7 @@ $("#chartContainer3").CanvasJSChart(options);
 			 <!-- End step2-->
 			  <!-- Begin step3-->
 			 <div id="step3" style="display:none;">
-			   <a href="javascript:void(0);" class="blink" id="cu1" style="display:none;">Step2: Add a pinch of Quinhydrone.</a>
+			   <a href="javascript:void(0);" class="blink" id="cu1" style="display:none;">Step2: Add 2ml <strong>HNO<sub>3</sub></strong>.</a>
 				
 				<p>
 				<img src="" id="step3img" style="width:640px;height:480px;">
@@ -3099,7 +3074,7 @@ $("#chartContainer3").CanvasJSChart(options);
 			  <!-- Begin step4-->
 			 <div id="step4" style="display:none;">
 			
-				<a href="javascript:void(0);" id="rod" class="blink" style="display:none;">Step4: Weight NaOH pellets.</a>
+				<a href="javascript:void(0);" id="rod" class="blink" style="display:none;">Step4: Place the cell in the stand.</a>
 				<p>
 				<img src=""  id="step4img" style="width:800px;height:480px;">
 				</p>
@@ -3108,7 +3083,7 @@ $("#chartContainer3").CanvasJSChart(options);
 			  <!-- Begin step5-->
 			 <div id="step5" style="display:none;">
 			
-				<a href="javascript:void(0);" id="voltameter" class="blink" style="display:none;">Step5: Prepare NaOH solution.</a>
+				<a href="javascript:void(0);" id="voltameter" class="blink" style="display:none;">Step5: Insert the Reference Electrode.</a>
 				<p>
 				<img src=""  id="step5img" style="width:640px;height:480px;">
 				
@@ -3118,7 +3093,7 @@ $("#chartContainer3").CanvasJSChart(options);
 			 <!-- Begin step6-->
 			 <div id="step6" style="display:none;">
 			
-				<a href="javascript:void(0);" id="voltameter1" class="blink" style="display:none;">Step6: Standardize the NaOH solution.</a>
+				<a href="javascript:void(0);" id="voltameter1" class="blink" style="display:none;">Step6: Insert the Counter Electrode.</a>
 				<p>
 				<img src=""  id="step6img" style="width:640px;height:480px;">
 				
@@ -3129,7 +3104,7 @@ $("#chartContainer3").CanvasJSChart(options);
 			   <!-- Begin step7-->
 			 <div id="step7" style="display:none;">
 			
-			     <span id="success2" style="display:none;" class="blink">Step7:Insert the electrodes.</span>
+			     <span id="success2" style="display:none;" class="blink">Step7:Insert the BDD Electrode.</span>
 				<p id="g121">
 				<span id="rank"></span>
 				<img src=""  id="step7img" style="width:640px;height:480px;">
@@ -3145,14 +3120,14 @@ $("#chartContainer3").CanvasJSChart(options);
 		        <!-- Begin step8-->
 			 <div id="step8" style="display:none;">
 			
-			   <span id="success3" style="display:none;" class="blink">Step8:Note the equivalence point.</span>
+			   <span id="success3" style="display:none;" class="blink">Step8:Switch on potentiostat instrument!</span>
 				
 				<p id="b121">
 				<span id="rank1"></span>
 				<img src=""  id="step8img" style="width:640px;height:480px;">
 				</p>
 				<div style="display:none;padding-top:100px;" id="b12">
-				<video width="640" height="480" src="images\graph.gif" controls>
+				<video width="640" height="480" src="images\exp6-video.mp4" controls>
 					
 					</video>
 				</div>
@@ -3162,15 +3137,14 @@ $("#chartContainer3").CanvasJSChart(options);
 		<div id="rightsidebar" class="rightsidebar" style="display:none;">
 			<a href="javascript:void(0);" id="skip">Skip Full Screen</a><a href="javascript:void(0);" id="resetn">Reset</a>
 			
-			<a href="javascript:void(0);" id="cu1n"><img src="images/icon1.jpg"></a>
-			<a href="javascript:void(0);" id="cuso41n"><img src="images/BDDE-E.jpg"></a>
-			<a href="javascript:void(0);" id="saltbridagen"><img src="images/GLASS-ROD.jpg" ></a>
+			<a href="javascript:void(0);" id="cu1n"><img src="images/ammonium-acetate-buffer.jpg"></a>
+			<a href="javascript:void(0);" id="cuso41n"><img src="images/icon3.jpg"></a>
+			<a href="javascript:void(0);" id="saltbridagen"><img src="images/icon3.jpg" ></a>
 			
-			<a href="javascript:void(0);" id="rodn"><img src="images/SPACTUALA.jpg"></a>
-			<a href="javascript:void(0);" id="rodn1"><img src="images/VOLUMETRIC.jpg"></a>
-			<a href="javascript:void(0);" id="rodn2"><img src="images/PHENOLPHTH.jpg"></a>
-			<a href="javascript:void(0);" id="rodn3"><img src="images/ELECTRODE.jpg"></a>
-			<a href="javascript:void(0);" id="rodn4"><img src="images/theory.jpg"></a>
+			<a href="javascript:void(0);" id="rodn"><img src="images/cadmium-nitrate.jpg"></a>
+			<a href="javascript:void(0);" id="rodn1"><img src="images/referenceE.jpg"></a>
+			<a href="javascript:void(0);" id="rodn2"><img src="images/referenceEff.jpg"></a>
+			<a href="javascript:void(0);" id="rodn3"><img src="images/bddf.jpg"></a>
 			<!--<a href="javascript:void(0);" id="voltametern"><img src="images/glassy carbon.jpg"></a>
 			<p class="inlink">
 			<p class="inlink" style="margin-right: -28px;"><a href="javascript:void(0);" id="b1"><img src="images/c1.jpg"></a>GCE</p>
@@ -3181,8 +3155,10 @@ $("#chartContainer3").CanvasJSChart(options);
 			<p class="inlink"><a href="javascript:void(0);" id="c1"><img src="images/c1.jpg"></a></p>
 			<p class="inlink"><a href="javascript:void(0);" id="g1"><img src="images/g1.jpg"></a></p>-->
 			
-		</div>		
-		</main>	
+		</div>
+		
+		</main>
+		
 		
 	</section>
 		<footer >
