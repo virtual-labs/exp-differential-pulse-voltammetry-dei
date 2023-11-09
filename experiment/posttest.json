@@ -32,7 +32,7 @@
       "correctAnswer": "a"
     },
 	{
-      "question": "Q4. The potential at i1/2 is called ______________.",
+      "question": "Q4. The potential at i <sub>1/2</sub> is called ______________.",
       "answers": {
         "a": "Middle potential.",
         "b": "Overpotential.",
@@ -56,7 +56,7 @@
       "answers": {
         "a": "Minimize",
         "b": "Maximize",
-        "c": "Fluctuaten",
+        "c": "Fluctuate",
         "d": "The detection limit is about 10<sup>-8</sup>M"
       },     
       "correctAnswer": "a"
