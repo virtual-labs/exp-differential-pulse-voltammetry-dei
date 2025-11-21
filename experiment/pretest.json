@@ -4,9 +4,9 @@
     {
       "question": "Q1. Which of the following statement is incorrect about Square wave voltammetry?",
       "answers": {
-        "a": "Direct detection limits as low as 10 –3 M are possible.",
-        "b": "The net current, i net , is obtained by taking the difference between the forward and reverse currents.",
-        "c": "It shows excellent sensitivity and the rejection of background currents.",
+        "a": "Direct detection limits as low as 10<sup>–3</sup> M are possible.",
+        "b": "The net current, i<sub>net</sub> , is obtained by taking the difference between the forward and reverse current.",
+        "c": "It shows excellent sensitivity and the rejection of background current.",
         "d": "In this technique, the peak height is directly proportional to the concentration of the electroactive species"
       },
 	  "correctAnswer": "a"     
@@ -68,12 +68,12 @@
         "a": "Charge",
         "b": "Voltage",
         "c": "Current",
-        "d": "volume"
+        "d": "Volume"
       },      
       "correctAnswer": "b"
     },
 	{
-      "question": "Q8. Which of the following is a disadvantage of boron-doped diamond electrodes?",
+      "question": "Q8. Which of the following is a disadvantage of boron-doped diamond electrode?",
       "answers": {
         "a": "Not suitable for commercial applications.",
         "b": "Low background current",
