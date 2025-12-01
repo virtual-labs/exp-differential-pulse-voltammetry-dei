@@ -2,7 +2,7 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "Q1. In an electrochemical cell, which of the following current is present even in the absence of the analyte?",
+      "question": "Q1. In an electrochemical cell, which of the following currents is present even in the absence of the analyte?",
       "answers": {
         "a": "Faradaic current.",
         "b": "Residual current.",
@@ -42,7 +42,7 @@
       "correctAnswer": "d"
     },
 	{
-      "question": "Q5. Which of the following voltammetric technique enhances the sensitivity by improving the faradic current?",
+      "question": "Q5. Which of the following voltammetric techniques enhances the sensitivity by improving the faradic current?",
       "answers": {
         "a": "Anodic stripping voltammetry",
         "b": "Cyclic voltammetry",
