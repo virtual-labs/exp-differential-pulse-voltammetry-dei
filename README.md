@@ -1,24 +1,24 @@
 ## Introduction
 
 
-<b>Discipline | <b>Fill your discipline name here
+<b>Discipline | <b>Chemical Binding(Chemistry)
 :--|:--|
-<b> Lab | <b> Fill your lab name here
-<b> Experiment|     <b> Fill your experiment name and number here
+<b> Lab | <b> Electroanalytical Virtual Laboratory
+<b> Experiment|  <b>Electrolytic Concentration Cell
 
 ### About the Experiment 
 
 Fill a brief description of this experiment here
-
-<b>Name of Developer | <b> Fill the name of experiment owner here 
+	
+<b>Name of Developer | <b> Dinesh Kumar Verma
 :--|:--|
-<b> Institute | <b>  
-<b> Email id|     <b>  
-<b> Department |  
+<b> Institute| <b> Dayalbagh Educational Institute 
+<b> Email id|   <b>  evlabdei@gmail.com
+<b> Department|  <b> Chemistry
 
 ### Contributors List
 
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
-1 | . | . | . | . | .
-2 | . | . | . | . | .
+1 |Dr Sachin Saxena . | Faculty. | Chemistry. |Dayalbagh Educational Institute. | sachinusic@gmail.com.
+2 |Dinesh Kumar Verma . |Project Associate . |Chemistry . | Dayalbagh Educational Institute. |evlabdei@gmail.com .
