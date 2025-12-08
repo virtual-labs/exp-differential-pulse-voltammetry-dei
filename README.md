@@ -4,7 +4,7 @@
 <b>Discipline | <b>Chemical Binding(Chemistry)
 :--|:--|
 <b> Lab | <b> Electroanalytical Virtual Laboratory
-<b> Experiment|  <b>Electrolytic Concentration Cell
+<b> Experiment|  <b>Heavy metal analysis using Differential Pulse Voltammetry (DPV) and Square Wave Voltammetry (SWV).
 
 ### About the Experiment 
 
