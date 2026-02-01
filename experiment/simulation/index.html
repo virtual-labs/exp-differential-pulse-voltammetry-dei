@@ -190,6 +190,18 @@ $(document).ready(function(){
     $("#success3").show();
             // $("#step5img").attr("src","assets/img/step5f.png");
             }, 6000);
+			setTimeout(function () {
+
+				// show table
+				$("#tableWrap").show();
+
+				// resize video to 50% and move right
+				$("#videoWrap").css({
+					"width": "50%",
+					"float": "right"
+				});
+
+			}, 30000);
     });
 	$("#voltametern").click(function(){
 	
@@ -3127,9 +3139,28 @@ $("#chartContainer3").CanvasJSChart(options);
 				<img src=""  id="step8img" style="width:640px;height:480px;">
 				</p>
 				<div style="display:none;padding-top:100px;" id="b12">
-				<video width="640" height="480" src="images\exp6-videoff.mp4" controls>
-					
-					</video>
+				<div id="tableWrap" style="width:50%; float:left; display:none;">
+					<table id="videotbl" border="2" style="width:100%;">
+						<caption style="font-weight:bold;">Results</caption>
+						<tr>
+							<td>S.No.</td>
+							<td>Potential(V)</td>
+							<td>Current(A)</td>
+							<td>Heavy Metals</td>
+						</tr>
+						<tr><td>1</td><td>-0.7679</td><td>1.0986E-6</td><td>Cd</td></tr>
+						<tr><td>2</td><td>-0.4591</td><td>2.0816E-5</td><td>Pb</td></tr>
+						<tr><td>3</td><td>-2.19E-2</td><td>4.1149E-6</td><td>Cu</td></tr>
+					</table>
+				</div>
+
+				<div id="videoWrap" style="width:100%; float:left;">
+					<video id="expVideo" src="images/exp6-videoff.mp4" controls style="width:100%;"></video>
+				</div>
+
+				<div style="clear:both;"></div>
+
+
 				</div>
 			 </div>
 			 <!-- End step8-->
@@ -3217,4 +3248,5 @@ $("#chartContainer3").CanvasJSChart(options);
 	
 </body>
 </html>
+
 
