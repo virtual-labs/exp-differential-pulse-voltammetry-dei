@@ -9,16 +9,16 @@
 ### About the Experiment 
 
 Fill a brief description of this experiment here
-	
-<b>Name of Developer | <b> Dinesh Kumar Verma
+
+<b>Name of Developer | <b> Dr. Sachin Saxena
 :--|:--|
-<b> Institute| <b> Dayalbagh Educational Institute 
-<b> Email id|   <b>  evlabdei@gmail.com
-<b> Department|  <b> Chemistry
+<b> Institute | <b> Dayalbagh Educational Institute 
+<b> Email id|     <b> sachinusic@gmail.com  
+<b> Department |  Chemistry
 
 ### Contributors List
 
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
-1 |Dr Sachin Saxena . | Faculty. | Chemistry. |Dayalbagh Educational Institute. | sachinusic@gmail.com.
-2 |Dinesh Kumar Verma . |Project Associate . |Chemistry . | Dayalbagh Educational Institute. |evlabdei@gmail.com .
+1 |Dinesh Kumar Verma  |Project Associate  |Chemistry  |Dayalbagh Educational Institute |dinnu.agra2011@gmail.com
+2 |Nidhi Tyagi  |Intern  |Chemistry  |Dayalbagh Educational Institute |nidhityagi0712@gmail.com
