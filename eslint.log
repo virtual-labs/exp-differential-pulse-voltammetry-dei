@@ -1,0 +1,56 @@
+
+/home/runner/work/exp-differential-pulse-voltammetry-dei/exp-differential-pulse-voltammetry-dei/experiment/simulation/js/jquery-3.6.0.min.js
+  2:71     warning  'module' is not defined                                                    no-undef
+  2:86     warning  'module' is not defined                                                    no-undef
+  2:5642   warning  Unexpected control character(s) in regular expression: \x1f, \x1f          no-control-regex
+  2:6125   warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:6349   warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:6857   warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:7627   warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:9899   warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:10209  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:12223  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:12791  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:12829  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:13812  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:14124  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:15952  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:16223  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:16421  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:16795  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  2:17485  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:19305  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:19405  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:19465  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:19649  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:20818  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:22090  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:22201  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:24367  warning  Unnecessary escape character: \/                                           no-useless-escape
+  2:33979  warning  Empty block statement                                                      no-empty
+  2:37724  warning  Unnecessary escape character: \/                                           no-useless-escape
+  2:39373  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:39489  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:39687  warning  Empty block statement                                                      no-empty
+  2:49237  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:50797  warning  Empty block statement                                                      no-empty
+  2:59285  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:60454  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:66086  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:67829  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:67895  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:68199  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:68265  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:68672  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:68949  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:72827  warning  Empty block statement                                                      no-empty
+  2:74440  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:76034  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:76814  warning  'r.href' is assigned to itself                                             no-self-assign
+  2:81652  warning  Empty block statement                                                      no-empty
+  2:84768  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:89201  warning  'define' is not defined                                                    no-undef
+  2:89213  warning  'define' is not defined                                                    no-undef
+
+✖ 51 problems (0 errors, 51 warnings)
+
