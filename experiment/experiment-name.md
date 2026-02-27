@@ -1,1 +1,1 @@
-## Heavy metal analysis Square Wave Voltammetry (SWV) Techniques.
+## Heavy metal analysis using Square Wave Voltammetry (SWV) Technique.
